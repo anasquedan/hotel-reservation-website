@@ -1,0 +1,74 @@
+@CHARSET "ISO-8859-1";
+
+.body-background {
+	background-color: white;
+	min-height: 100%;
+}
+
+#submit-button {
+	background-color: #4CAF50; /* Green */
+	border: none;
+	color: white;
+	padding: 10px 15px 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: auto;
+	font-style: normal;
+}
+
+.reservation-form {
+	width: 50%;
+	height: 50%;
+	margin: 5% auto;
+	background-color: black;
+	padding: 20px;
+}
+
+.label {
+	color: silver;;
+}
+
+.rounded {
+	border-radius: 10px;
+}
+
+.h2.p {
+	padding-top: 50px;
+}
+
+.content {
+	width: 400px;
+	padding: 20px;
+	overflow: hidden;
+}
+
+.content img {
+	margin-right: 15px;
+	float: left;
+}
+
+.card-padding {
+	margin: 20px;
+}
+
+body {
+	background-color: whitesmoke;
+}
+
+.img-div {
+	margin: auto;
+	align-content: center;
+}
+
+.hotel-price {
+	font-style: italic;
+}
+
+.title-head {
+	margin: 2% auto;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 90px;
+}

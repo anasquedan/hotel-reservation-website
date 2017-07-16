@@ -1,0 +1,16 @@
+com\expedia\reservation_system\model\OfferDateRange.class
+com\expedia\reservation_system\model\Hotel.class
+com\expedia\reservation_system\model\HotelUrgencyInfo.class
+com\expedia\reservation_system\model\OfferInfo.class
+com\expedia\reservation_system\service\HotelsSearchService.class
+com\expedia\reservation_system\model\HotelUrls.class
+com\expedia\reservation_system\model\HotelScores.class
+com\expedia\reservation_system\model\Destination.class
+com\expedia\reservation_system\model\HotelPricingInfo.class
+com\expedia\reservation_system\model\Offers.class
+com\expedia\reservation_system\controller\UserBean.class
+com\expedia\reservation_system\model\UserInfo.class
+com\expedia\reservation_system\model\Persona.class
+com\expedia\reservation_system\model\OffersAndInfo.class
+com\expedia\reservation_system\model\HotelInfo.class
+com\expedia\reservation_system\controller\SearchAction.class
