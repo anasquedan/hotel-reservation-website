@@ -1,6 +1,8 @@
 # hotel-reservation-website
 Hotel Reservation Website
 
+[![Build Status](https://travis-ci.org/anasquedan/hotel-reservation-website.svg?branch=master)](https://travis-ci.org/anasquedan/hotel-reservation-website)
+
 Create account on Heroku with below signup link .
 https://signup.heroku.com/dc
 
